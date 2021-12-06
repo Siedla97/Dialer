@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Telephone</string>
+    <string name="button4_txt">4</string>
+    <string name="button1_txt">1</string>
+    <string name="button2_txt">2</string>
+    <string name="button3_txt">3</string>
+    <string name="button5_txt">5</string>
+    <string name="button6_txt">6</string>
+    <string name="button7_txt">7</string>
+    <string name="button8_txt">8</string>
+    <string name="button9_txt">9</string>
+    <string name="button10_txt">*</string>
+    <string name="button11_txt">0</string>
+    <string name="button12_txt">#</string>
+    <string name="plus_txt">+</string>
+    <string name="contact1_txt">Contact1</string>
+    <string name="contact2_txt">Contact2</string>
+    <string name="contact3_txt">Contact3</string>
+    <string name="cancel_txt">Cancel</string>
+    <string name="save_txt">Save</string>
+</resources>
